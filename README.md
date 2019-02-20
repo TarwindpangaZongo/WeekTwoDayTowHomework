@@ -15,14 +15,14 @@
 
 first activity initial screen
 
-![] (Screenshot_20190220-012014_Week Two Day Tow Homework.jpg)
+![] (ScreenShots/Screenshot1.jpg)
 
 Second activity sent for result
-![] (Screenshot_20190220-012154_Week Two Day Tow Homework.jpg)
+![] (ScreenShots/Screenshot2.jpg)
 
 
 third activity return result
-![] (Screenshot_20190220-012205_Week Two Day Tow Homework.jpg)
+![] (ScreenShots/Screenshot3.jpg)
 
 
 
