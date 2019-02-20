@@ -73,7 +73,6 @@ public class ResultActivity extends AppCompatActivity {
         //Make sure to destroy activity after we are done
         finish() ;
     }
-
 }
 
 
