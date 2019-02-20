@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ResultActivity">
+
+    <EditText
+        android:id="@+id/etCarMake"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR MAKE"/>
+
+    <EditText
+        android:id="@+id/etCarModel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR MODEL"/>
+
+    <EditText
+        android:id="@+id/etCarYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR YEAR"/>
+
+    <EditText
+        android:id="@+id/etCarTitleStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR TITLE STATUS"/>
+
+    <EditText
+        android:id="@+id/etCarColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR COLOR"/>
+
+    <EditText
+        android:id="@+id/etCarEngine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR ENGINE"/>
+
+    <EditText
+        android:id="@+id/etCarTransmission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/main_font_size"
+        android:background="#bbb"
+        android:hint="CAR TRANSMISSION"/>
+
+    <Button
+        android:id="@+id/btnSendResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Result"
+        android:onClick="onClick"/>
+
+</LinearLayout>
