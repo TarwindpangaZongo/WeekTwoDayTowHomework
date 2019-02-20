@@ -15,14 +15,14 @@
 
 first activity initial screen
 
-![] (ScreenShots/Screenshot1.jpg)
+![](ScreenShots/Screenshot1.jpg)
 
 Second activity sent for result
-![] (ScreenShots/Screenshot2.jpg)
+![](ScreenShots/Screenshot2.jpg)
 
 
 third activity return result
-![] (ScreenShots/Screenshot3.jpg)
+![](ScreenShots/Screenshot3.jpg)
 
 
 
